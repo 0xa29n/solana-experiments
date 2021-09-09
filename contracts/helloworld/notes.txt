@@ -1,0 +1,5 @@
+RPC URL: https://api.devnet.solana.com
+Default Signer Path: /home/gronnbeck/dev/solana-dev-wallet/keypair.json
+Commitment: confirmed
+Program Id: 3zbJNSBsB2JoQq3rq5b7CN3uaJSkJyUoiPGfAkNQZjy1
+
